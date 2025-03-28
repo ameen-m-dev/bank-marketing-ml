@@ -2,6 +2,13 @@
 
 This project applies machine learning techniques to predict whether a client will subscribe to a term deposit based on marketing data from a Portuguese bank.
 
+## View Results
+
+The results, including accuracy, F1 scores, confusion matrices, and visualizations, can be found directly in the Jupyter notebooks:
+
+- [`regression.ipynb`](./regression.ipynb) — Logistic Regression
+- [`decision_tree.ipynb`](./decision_tree.ipynb) — Decision Tree
+
 ## Project Structure
 - `regression.ipynb`: Logistic Regression model
 - `decision_tree.ipynb`: Decision Tree model
